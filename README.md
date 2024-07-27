@@ -5,10 +5,10 @@ Programmiersprachen: Java, Javascript, Html+Css, bash-Skripte.
 
 Kenntnisse:
 
--Java, Html+Css, bash-Skripte          Gut
+- Java, Html+Css, bash-Skripte                              |Gut
 
-- Javascript                           Grundlagen
+- Javascript                                                |Grundlagen
 
--SAP                                   Grundlagen
+- SAP                                                       |Grundlagen
 
--Ms EXcel                              ziemlich gut
+- Ms EXcel                                                  |ziemlich gut
