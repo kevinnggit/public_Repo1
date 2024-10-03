@@ -1,4 +1,4 @@
-package Prog01;
+package Java.jav;
  
 public class Sortierverfahren {
     
