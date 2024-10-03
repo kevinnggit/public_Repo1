@@ -16,4 +16,7 @@ Kenntnisse:
 
 . Links zu Projekten an denen ich gearbeitet bzw mitgearbeitet habe:
 
-- https://informatik.hs-bremerhaven.de/docker-swe2-2024-team17-web/login.html 
+Shop:
+- https://informatik.hs-bremerhaven.de/docker-swe2-2024-team17-web/login.html
+Schiffe:
+- https://informatik.hs-bremerhaven.de/docker-tfw-2024-e-web/register.html 
